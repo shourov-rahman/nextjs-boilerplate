@@ -5,6 +5,7 @@
   ],
   "extends": [
     "next/core-web-vitals",
+    "plugin:@tanstack/eslint-plugin-query/recommended",
     "airbnb",
     "airbnb-typescript",
     "plugin:@typescript-eslint/recommended",
@@ -21,6 +22,7 @@
   },
   "plugins": [
     "react",
+    "@tanstack/query",
     "@typescript-eslint",
     "prettier"
   ],
