@@ -10,3 +10,4 @@
 - 📓 Write standard compliant commit messages with Commitizen
 - ⌨️ Form handling with React Hook Form
 - 🔴 Validation library with Zod
+- 🔄 Asynchronous State Management with React Query
