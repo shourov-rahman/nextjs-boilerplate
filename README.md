@@ -11,3 +11,4 @@
 - ⌨️ Form handling with React Hook Form
 - 🔴 Validation library with Zod
 - 🔄 Asynchronous State Management with React Query
+- 📦 Type-safe ORM with DrizzleORM, compatible with PostgreSQL, SQLite, and MySQL
