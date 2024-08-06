@@ -1,3 +1,4 @@
+import "dotenv/config";
 import type { Config } from "drizzle-kit";
 
 /** @type {import('drizzle-kit').Config} */
@@ -6,7 +7,7 @@ export default {
   schema: "./src/models/*.ts",
   dialect: "postgresql",
   dbCredentials: {
-    url: process.env.DATABASE_URL as string,
+    url: process.env.DB_CONNECTION_STRING as string,
   },
   verbose: true,
   strict: true,
