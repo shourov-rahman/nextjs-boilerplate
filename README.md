@@ -3,10 +3,13 @@
 - ⚡ Next.js with App Router support
 - 🔥 Type checking TypeScript
 - 💎 Style with Tailwind CSS
-- 📏 Linter with ESLint (default Next.js, Next.js Core Web Vitals, Tailwind CSS and Airbnb configuration)
+- 📏 Linter with ESLint (default Next.js, Next.js Core Web Vitals, Tailwind CSS)
 - 💖 Code Formatter with Prettier
 - 🦊 Husky for Git Hooks
 - ⌨️ Form handling with React Hook Form
 - 🔴 Validation library with Zod
 - 🔄 Asynchronous State Management with React Query
 - 📦 Type-safe ORM with DrizzleORM, compatible with PostgreSQL, SQLite, and MySQL
+- 🧠 Global state management with Zustand
+- 🎨 Icon system with Lucide Icons
+- 🧩 Conditional class management with clsx + tailwind-merge (`cn()` utility)
