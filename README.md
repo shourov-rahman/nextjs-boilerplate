@@ -6,8 +6,6 @@
 - 📏 Linter with ESLint (default Next.js, Next.js Core Web Vitals, Tailwind CSS and Airbnb configuration)
 - 💖 Code Formatter with Prettier
 - 🦊 Husky for Git Hooks
-- 🚫 Lint-staged for running linters on Git staged files
-- 📓 Write standard compliant commit messages with Commitizen
 - ⌨️ Form handling with React Hook Form
 - 🔴 Validation library with Zod
 - 🔄 Asynchronous State Management with React Query
